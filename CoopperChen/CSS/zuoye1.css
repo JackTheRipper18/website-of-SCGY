@@ -1,0 +1,22 @@
+@charset"utf-8";
+.t1 {
+	font-family: 微软雅黑;
+	font-size: 15px;
+	padding: 10px;
+	background-color: #ffffff;
+	color: green;
+}
+.t2 {
+	font-family: 宋体;
+	font-size: 20px;
+	padding: 10px;
+	background-color: #255e95;
+	color: black;
+}
+.t3 {
+	font-family: 黑体;
+	font-size: 25px;
+	padding: 10px;
+	background-color: #e9faff;
+	color: yellow;
+}
